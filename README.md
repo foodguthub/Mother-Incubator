@@ -16,6 +16,13 @@ A simple prototype of DIY incubator to preserve and cultivate the starters. The 
 * motion sensors for easy remote-controlled ferment stirring - suggested by TeZ, but then he left and we lost
 
 **Next:**
+
 Replace Arduino with Photon to allow better connectivity (can have a pc from Hackerspace?)
 
 Current version: Mother 0.1 (more or less dysfunctional prototype) -> hope to upgrade to functional Mother 1.1 soon...
+
+![arduino](https://cloud.githubusercontent.com/assets/14889513/10266248/c83084f8-6a88-11e5-9b0e-3e9164408c93.jpg)
+
+
+
+
