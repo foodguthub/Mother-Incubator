@@ -1,6 +1,4 @@
-# Mother-Incubator
-
-##DIY starter culture incubator##
+# Mother-DIY starter culture incubator
 
 Incubators are commonly used for artificial growth of microbiological cultures while maintaining the optimal temperature and other conditions such as the humidity and oxygen content of the atmosphere inside.  
 
